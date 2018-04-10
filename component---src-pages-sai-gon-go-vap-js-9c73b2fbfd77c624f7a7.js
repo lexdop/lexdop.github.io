@@ -1,2 +1,0 @@
-webpackJsonp([95434477925045],{251:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.GoVapQuery=void 0;var u=a(2),n=l(u),o=a(3),r=(l(o),a(4)),d=l(r),s=a(5),c=l(s),f=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?n.default.createElement(d.default,{nodes:t.allLocationsXlsxSheet1.edges}):n.default.createElement(c.default,null)};t.default=f;t.GoVapQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-sai-gon-go-vap-js-9c73b2fbfd77c624f7a7.js.map
