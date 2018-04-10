@@ -1,0 +1,2 @@
+webpackJsonp([0xccf6bafb123e],{258:function(e,t,a){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.ThuDucQuery=void 0;var l=a(2),n=u(l),c=a(3),r=(u(c),a(4)),d=u(r),f=a(5),o=u(f),s=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?n.default.createElement(d.default,{nodes:t.allLocationsXlsxSheet1.edges}):n.default.createElement(o.default,null)};t.default=s;t.ThuDucQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-sai-gon-thu-duc-js-595a799375fe5f7bc253.js.map

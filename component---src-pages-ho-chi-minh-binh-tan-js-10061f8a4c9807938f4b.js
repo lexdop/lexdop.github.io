@@ -1,0 +1,2 @@
+webpackJsonp([0xe9cfc5ab011a],{246:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.BinhTanQuery=void 0;var l=a(2),u=n(l),r=a(3),d=(n(r),a(4)),c=n(d),o=a(5),f=n(o),s=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?u.default.createElement(c.default,{nodes:t.allLocationsXlsxSheet1.edges}):u.default.createElement(f.default,null)};t.default=s;t.BinhTanQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-ho-chi-minh-binh-tan-js-10061f8a4c9807938f4b.js.map
