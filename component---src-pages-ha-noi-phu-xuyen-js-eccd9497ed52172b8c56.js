@@ -1,0 +1,2 @@
+webpackJsonp([0xc6fe0547ce16],{220:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(2),a=n(l),c=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Phu Xuyen"))};t.default=c,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-ha-noi-phu-xuyen-js-eccd9497ed52172b8c56.js.map

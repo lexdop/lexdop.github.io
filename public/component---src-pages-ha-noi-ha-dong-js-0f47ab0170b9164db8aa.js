@@ -1,0 +1,2 @@
+webpackJsonp([87992716469479],{210:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.HaDongQuery=void 0;var u=a(2),r=n(u),o=a(3),d=(n(o),a(5)),l=n(d),s=function(e){var t=e.data;return r.default.createElement(l.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=s;t.HaDongQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-ha-noi-ha-dong-js-0f47ab0170b9164db8aa.js.map

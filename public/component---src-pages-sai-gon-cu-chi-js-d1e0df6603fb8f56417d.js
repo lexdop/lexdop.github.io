@@ -1,0 +1,2 @@
+webpackJsonp([3064267747244],{249:function(e,t,u){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.CuChiQuery=void 0;var n=u(2),r=a(n),d=u(3),l=(a(d),u(5)),o=a(l),s=function(e){var t=e.data;return r.default.createElement(o.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=s;t.CuChiQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-sai-gon-cu-chi-js-d1e0df6603fb8f56417d.js.map

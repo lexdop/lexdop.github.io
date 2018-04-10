@@ -1,0 +1,2 @@
+webpackJsonp([8443180190905],{211:function(e,a,t){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}a.__esModule=!0,a.HaiBaTrungQuery=void 0;var n=t(2),r=u(n),d=t(3),l=(u(d),t(5)),o=u(l),s=function(e){var a=e.data;return r.default.createElement(o.default,{nodes:a.allLocationsXlsxSheet1.edges})};a.default=s;a.HaiBaTrungQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-ha-noi-hai-ba-trung-js-b82e68eea2d8081fe077.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xcec444bce9f2],{520:function(n,a){n.exports={data:{allLocationsXlsxSheet1:{totalCount:41,distinct:["Ba Đình","Cầu Giấy","Hai Bà Trưng","Hoàn Kiếm","Hoàng Mai","Hà Đông","Long Biên","Nam Từ Liêm","Thanh Xuân","Tây Hồ","Đống Đa"]}},pathContext:{}}}});
+//# sourceMappingURL=path---ha-noi-ece48b71b21a3f6c0ec1.js.map

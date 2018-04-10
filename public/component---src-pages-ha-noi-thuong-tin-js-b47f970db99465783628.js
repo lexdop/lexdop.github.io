@@ -1,0 +1,2 @@
+webpackJsonp([0xfcbbf86af6d3],{230:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(2),f=n(l),a=function(){return f.default.createElement("div",null,f.default.createElement("h1",null,"Thuong Tin"))};t.default=a,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-ha-noi-thuong-tin-js-b47f970db99465783628.js.map

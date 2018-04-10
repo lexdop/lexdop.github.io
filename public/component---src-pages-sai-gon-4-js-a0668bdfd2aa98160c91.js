@@ -1,0 +1,2 @@
+webpackJsonp([0xe692b8656c02],{239:function(e,t,a){"use strict";function r(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.DistrictNo4Query=void 0;var u=a(2),n=r(u),o=a(3),c=(r(o),a(5)),d=r(c),l=function(e){var t=e.data;return n.default.createElement(d.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=l;t.DistrictNo4Query="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-sai-gon-4-js-a0668bdfd2aa98160c91.js.map

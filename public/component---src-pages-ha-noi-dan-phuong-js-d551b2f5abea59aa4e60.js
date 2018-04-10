@@ -1,0 +1,2 @@
+webpackJsonp([86745034767299],{206:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(2),a=n(l),r=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Dan Phuong"))};t.default=r,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-ha-noi-dan-phuong-js-d551b2f5abea59aa4e60.js.map

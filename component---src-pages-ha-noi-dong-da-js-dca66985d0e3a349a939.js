@@ -1,0 +1,2 @@
+webpackJsonp([8450416554190],{208:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.DongDaQuery=void 0;var u=a(2),r=n(u),o=a(3),d=(n(o),a(5)),l=n(d),s=function(e){var t=e.data;return r.default.createElement(l.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=s;t.DongDaQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-ha-noi-dong-da-js-dca66985d0e3a349a939.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xee2339e670ac],{213:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.HoanKiemQuery=void 0;var u=a(2),r=n(u),o=a(3),d=(n(o),a(5)),l=n(d),c=function(e){var t=e.data;return r.default.createElement(l.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=c;t.HoanKiemQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-ha-noi-hoan-kiem-js-d9472cf183880c07c131.js.map

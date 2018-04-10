@@ -1,0 +1,2 @@
+webpackJsonp([72415473598905],{209:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(2),a=l(n),r=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Gia Lam"))};t.default=r,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-ha-noi-gia-lam-js-73d25b3b380a0148507e.js.map

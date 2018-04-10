@@ -1,0 +1,2 @@
+webpackJsonp([0xa1b961e91583],{216:function(e,t,n){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.LongBienQuery=void 0;var u=n(2),r=a(u),o=n(3),d=(a(o),n(5)),l=a(d),s=function(e){var t=e.data;return r.default.createElement(l.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=s;t.LongBienQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-ha-noi-long-bien-js-b8e480c674530d685c93.js.map

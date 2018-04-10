@@ -1,0 +1,2 @@
+webpackJsonp([52310855818746],{229:function(e,a,t){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}a.__esModule=!0,a.ThanhXuanQuery=void 0;var u=t(2),r=n(u),d=t(3),l=(n(d),t(5)),o=n(l),s=function(e){var a=e.data;return r.default.createElement(o.default,{nodes:a.allLocationsXlsxSheet1.edges})};a.default=s;a.ThanhXuanQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-ha-noi-thanh-xuan-js-5f1fd76f16a85e179265.js.map

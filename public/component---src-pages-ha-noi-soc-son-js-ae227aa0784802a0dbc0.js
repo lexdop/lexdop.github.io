@@ -1,0 +1,2 @@
+webpackJsonp([23601364363416],{223:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(2),a=n(l),o=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Soc Son"))};t.default=o,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-ha-noi-soc-son-js-ae227aa0784802a0dbc0.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([95434477925045],{250:function(e,t,a){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.GoVapQuery=void 0;var n=a(2),r=u(n),o=a(3),d=(u(o),a(5)),l=u(d),s=function(e){var t=e.data;return r.default.createElement(l.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=s;t.GoVapQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-sai-gon-go-vap-js-9ec36616603373da3138.js.map
