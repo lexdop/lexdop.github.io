@@ -1,2 +1,0 @@
-webpackJsonp([89905593081312],{231:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(2),a=n(l),r=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"TThuong Tin"))};t.default=r,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-ha-noi-ung-hoa-js-b34857fc3c9619c1868c.js.map

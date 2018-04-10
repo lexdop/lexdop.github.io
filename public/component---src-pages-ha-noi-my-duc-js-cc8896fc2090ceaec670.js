@@ -1,2 +1,0 @@
-webpackJsonp([0xe60a8231aa55],{218:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(2),a=l(n),r=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"My Duc"))};t.default=r,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-ha-noi-my-duc-js-cc8896fc2090ceaec670.js.map

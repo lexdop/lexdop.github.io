@@ -1,2 +1,0 @@
-webpackJsonp([0xe766b76c88e2],{204:function(e,a,t){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}a.__esModule=!0,a.CauGiayQuery=void 0;var n=t(2),r=u(n),d=t(3),l=(u(d),t(5)),o=u(l),c=function(e){var a=e.data;return r.default.createElement(o.default,{nodes:a.allLocationsXlsxSheet1.edges})};a.default=c;a.CauGiayQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-ha-noi-cau-giay-js-ed7f79e50c9a87124577.js.map

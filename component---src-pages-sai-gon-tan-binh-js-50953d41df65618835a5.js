@@ -1,2 +1,0 @@
-webpackJsonp([0xc4d2391ae580],{255:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.TanBinhQuery=void 0;var u=a(2),r=n(u),d=a(3),l=(n(d),a(5)),o=n(l),c=function(e){var t=e.data;return r.default.createElement(o.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=c;t.TanBinhQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-sai-gon-tan-binh-js-50953d41df65618835a5.js.map

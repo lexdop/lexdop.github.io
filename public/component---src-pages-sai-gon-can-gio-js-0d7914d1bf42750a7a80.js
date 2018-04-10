@@ -1,2 +1,0 @@
-webpackJsonp([0x815cb50fed3c],{248:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.CanGioQuery=void 0;var u=a(2),r=n(u),d=a(3),o=(n(d),a(5)),l=n(o),c=function(e){var t=e.data;return r.default.createElement(l.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=c;t.CanGioQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-sai-gon-can-gio-js-0d7914d1bf42750a7a80.js.map

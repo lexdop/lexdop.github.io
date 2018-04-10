@@ -1,2 +1,0 @@
-webpackJsonp([53074684909872],{228:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(2),a=n(l),r=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"/thanh Tri"))};t.default=r,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-ha-noi-thanh-tri-js-e22d4067da73d2ee142d.js.map

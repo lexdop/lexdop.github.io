@@ -1,2 +1,0 @@
-webpackJsonp([0x73f4a07b298e],{220:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.NamTuLiemQuery=void 0;var u=a(2),n=l(u),r=a(3),d=(l(r),a(4)),o=l(d),f=a(5),s=l(f),c=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?n.default.createElement(o.default,{nodes:t.allLocationsXlsxSheet1.edges}):n.default.createElement(s.default,null)};t.default=c;t.NamTuLiemQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-ha-noi-nam-tu-liem-js-cdcc8ac6a561519053cb.js.map

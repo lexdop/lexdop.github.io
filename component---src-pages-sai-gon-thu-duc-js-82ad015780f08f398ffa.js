@@ -1,2 +1,0 @@
-webpackJsonp([0xccf6bafb123e],{257:function(e,t,u){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.ThuDucQuery=void 0;var n=u(2),r=a(n),c=u(3),d=(a(c),u(5)),l=a(d),f=function(e){var t=e.data;return r.default.createElement(l.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=f;t.ThuDucQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-sai-gon-thu-duc-js-82ad015780f08f398ffa.js.map

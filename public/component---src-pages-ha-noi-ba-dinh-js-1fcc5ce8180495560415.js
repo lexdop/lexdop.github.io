@@ -1,2 +1,0 @@
-webpackJsonp([0xa0681c752f35],{201:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.BaDinhQuery=void 0;var u=a(2),r=n(u),d=a(3),l=(n(d),a(5)),o=n(l),c=function(e){var t=e.data;return r.default.createElement(o.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=c;t.BaDinhQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-ha-noi-ba-dinh-js-1fcc5ce8180495560415.js.map

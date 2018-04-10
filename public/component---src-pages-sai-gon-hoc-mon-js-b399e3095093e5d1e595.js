@@ -1,2 +1,0 @@
-webpackJsonp([0x65e067c150a8],{251:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.HocMonQuery=void 0;var o=a(2),u=n(o),r=a(3),c=(n(r),a(5)),d=n(c),l=function(e){var t=e.data;return u.default.createElement(d.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=l;t.HocMonQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-sai-gon-hoc-mon-js-b399e3095093e5d1e595.js.map

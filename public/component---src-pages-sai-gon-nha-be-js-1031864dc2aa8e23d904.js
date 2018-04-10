@@ -1,2 +1,0 @@
-webpackJsonp([0xc1839bbc3d19],{253:function(e,t,a){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.NhaBeQuery=void 0;var n=a(2),r=u(n),d=a(3),l=(u(d),a(5)),c=u(l),o=function(e){var t=e.data;return r.default.createElement(c.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=o;t.NhaBeQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-sai-gon-nha-be-js-1031864dc2aa8e23d904.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([75951877094285],{245:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.BinhChanhQuery=void 0;var u=a(2),r=n(u),d=a(3),l=(n(d),a(5)),o=n(l),s=function(e){var t=e.data;return r.default.createElement(o.default,{nodes:t.allLocationsXlsxSheet1.edges})};t.default=s;t.BinhChanhQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-sai-gon-binh-chanh-js-e4946cb9ad5beb76ab1a.js.map
