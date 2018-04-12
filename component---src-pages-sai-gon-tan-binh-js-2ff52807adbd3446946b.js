@@ -1,0 +1,2 @@
+webpackJsonp([0xc4d2391ae580],{256:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.TanBinhQuery=void 0;var l=a(2),u=n(l),d=a(3),r=(n(d),a(4)),o=n(r),c=a(5),s=n(c),f=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?u.default.createElement(o.default,{nodes:t.allLocationsXlsxSheet1.edges}):u.default.createElement(s.default,null)};t.default=f;t.TanBinhQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-sai-gon-tan-binh-js-2ff52807adbd3446946b.js.map
