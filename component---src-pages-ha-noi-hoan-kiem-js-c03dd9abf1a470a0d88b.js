@@ -1,2 +1,0 @@
-webpackJsonp([0xee2339e670ac],{219:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.HoanKiemQuery=void 0;var n=a(2),u=l(n),o=a(3),r=(l(o),a(4)),d=l(r),c=a(5),s=l(c),f=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?u.default.createElement(d.default,{nodes:t.allLocationsXlsxSheet1.edges}):u.default.createElement(s.default,null)};t.default=f;t.HoanKiemQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-ha-noi-hoan-kiem-js-c03dd9abf1a470a0d88b.js.map
