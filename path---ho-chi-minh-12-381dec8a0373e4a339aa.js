@@ -1,2 +1,0 @@
-webpackJsonp([0xa18b88a93634],{527:function(n,t){n.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{complete_address:"Số 98/4A Nguyễn Văn Quá, Khu Phố 2, P. Đông Hưng Thuận, Q. 12, TP. Hồ Chí Minh",district:"12",longitude:null,latitude:null,city:"Hochiminh City",ward:"Đông Hưng Thuận",plf_id:80,planned_launch_date:43169,week:"W10",status:"On-Hold",contact_email:null,notes:null,partner_type:"FPT"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---ho-chi-minh-12-381dec8a0373e4a339aa.js.map
