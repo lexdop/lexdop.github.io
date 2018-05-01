@@ -1,2 +1,0 @@
-webpackJsonp([77147454432127],{544:function(n,t){n.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{complete_address:"131A-133-135 Quốc Lộ 13, P. Hiệp Bình Chánh, Q. Thủ Đức, TP. Hồ Chí Minh",district:"Thủ Đức",longitude:null,latitude:null,city:"Hochiminh City",ward:"Hiệp Bình Chánh",plf_id:77,planned_launch_date:43169,week:"W10",status:"Done",contact_email:null,notes:null}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---ho-chi-minh-thu-duc-32ff246997e0792a724a.js.map
