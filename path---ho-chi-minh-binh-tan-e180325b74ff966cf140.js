@@ -1,0 +1,2 @@
+webpackJsonp([25398468697127],{548:function(t,e){t.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{complete_address:"45 Thái Hà, P. Trung Liệt, Q. Đống Đa, Hà Nội",district:"Bình Tân",longitude:"2",latitude:"2",city:"Hochiminh City",ward:"2",plf_id:186,planned_launch_date:"2018-04-27T17:00:00.000Z",week:"W17",status:"Setting",contact_email:null,notes:null,partner_type:"FPT"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---ho-chi-minh-binh-tan-e180325b74ff966cf140.js.map

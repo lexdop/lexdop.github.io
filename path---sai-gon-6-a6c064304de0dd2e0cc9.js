@@ -1,0 +1,2 @@
+webpackJsonp([93547070701223],{530:function(t,n){t.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{complete_address:"512 Hồng Bàng, P. 12, Q. 6, TP. Hồ Chí Minh",district:"6",longitude:null,latitude:null,city:"Hochiminh City",ward:"12",plf_id:92,planned_launch_date:43175,week:"W11",status:"Done",contact_email:null,notes:null}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---sai-gon-6-a6c064304de0dd2e0cc9.js.map

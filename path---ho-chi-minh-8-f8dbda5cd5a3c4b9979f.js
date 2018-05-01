@@ -1,0 +1,2 @@
+webpackJsonp([0x808267b7cc27],{545:function(t,e){t.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{complete_address:"760 Quang Trung, Hà Đông, Hà Nội",district:"8",longitude:"8",latitude:"8",city:"Hochiminh City",ward:"8",plf_id:201,planned_launch_date:"2018-05-04T17:00:00.000Z",week:"W18",status:"Setting",contact_email:6926590,notes:null,partner_type:"FPT"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---ho-chi-minh-8-f8dbda5cd5a3c4b9979f.js.map
