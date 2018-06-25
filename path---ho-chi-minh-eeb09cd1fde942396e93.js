@@ -1,2 +1,0 @@
-webpackJsonp([56105188928578],{559:function(n,t){n.exports={data:{allLocationsXlsxSheet1:{totalCount:137,distinct:["1","10","11","12","2","3","4","5","6","7","8","Bình Thạnh","Bình Tân","Gò Vấp","Phú Nhuận","Thủ Đức","Tân Bình","Tân Phú"]}},pathContext:{}}}});
-//# sourceMappingURL=path---ho-chi-minh-eeb09cd1fde942396e93.js.map

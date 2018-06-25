@@ -1,2 +1,0 @@
-webpackJsonp([91957486945625],{227:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.MeLinhQuery=void 0;var n=a(2),u=l(n),r=a(3),d=(l(r),a(5)),o=l(d),s=a(4),c=l(s),f=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?u.default.createElement(o.default,{nodes:t.allLocationsXlsxSheet1.edges}):u.default.createElement(c.default,null)};t.default=f;t.MeLinhQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-ha-noi-me-linh-js-8bf2d436ea8516f551d0.js.map
