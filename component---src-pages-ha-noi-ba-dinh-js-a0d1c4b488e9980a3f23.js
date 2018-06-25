@@ -1,0 +1,2 @@
+webpackJsonp([0xa0681c752f35],{212:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.BaDinhQuery=void 0;var n=a(2),u=l(n),r=a(3),d=(l(r),a(5)),o=l(d),c=a(4),f=l(c),s=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?u.default.createElement(o.default,{nodes:t.allLocationsXlsxSheet1.edges}):u.default.createElement(f.default,null)};t.default=s;t.BaDinhQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-ha-noi-ba-dinh-js-a0d1c4b488e9980a3f23.js.map

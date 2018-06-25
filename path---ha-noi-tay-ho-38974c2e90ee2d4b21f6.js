@@ -1,0 +1,2 @@
+webpackJsonp([0x74c680f44ccf],{513:function(t,e){t.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{complete_address:"Số 7A Yên Phụ, P. Yên Phụ, Q. Tây Hồ, TP. Hà Nội",district:"Tây Hồ",longitude:"105.840039",latitude:"21.05067",city:"Hanoi City",ward:"Yên Phụ",plf_id:47,planned_launch_date:43039,week:"W44",status:"Done",contact_email:null,notes:null}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---ha-noi-tay-ho-38974c2e90ee2d4b21f6.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xc1839bbc3d19],{254:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.NhaBeQuery=void 0;var u=a(2),n=l(u),d=a(3),r=(l(d),a(4)),c=l(r),o=a(5),s=l(o),f=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?n.default.createElement(c.default,{nodes:t.allLocationsXlsxSheet1.edges}):n.default.createElement(s.default,null)};t.default=f;t.NhaBeQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-sai-gon-nha-be-js-02c14462b9785c1cb420.js.map
