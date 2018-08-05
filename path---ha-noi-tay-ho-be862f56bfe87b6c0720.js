@@ -1,2 +1,0 @@
-webpackJsonp([0x74c680f44ccf],{527:function(e,t){e.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{complete_address:"Số 536 đường 3/2, Phường 14, Quận 10, TP. HCM",district:"Tây Hồ",longitude:"5",latitude:"5",city:"Hanoi City",ward:"5",plf_id:47,planned_launch_date:"2017-10-30T17:00:00.000Z",week:"W44",status:"Done",contact_email:null,notes:null,partner_type:"Truemoney"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---ha-noi-tay-ho-be862f56bfe87b6c0720.js.map

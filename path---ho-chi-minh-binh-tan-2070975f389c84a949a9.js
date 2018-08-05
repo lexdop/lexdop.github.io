@@ -1,2 +1,0 @@
-webpackJsonp([25398468697127],{541:function(n,t){n.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{plf_id:"75",district:"Bình Tân",complete_address:"762 Tỉnh Lộ 10, Phường Bình Trị Đông, Quận Bình Tân, TP.HCM",longitude:"106.6103000",latitude:"10.7579530",city:"Hochiminh City",ward:"Bình Trị Đông",station_name:"TM - 762 Tỉnh Lộ 10",planned_launch_date:"04/28/2018",week:"W17",status:"Done",contact_email:null,notes:null,partner_type:"Truemoney"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---ho-chi-minh-binh-tan-2070975f389c84a949a9.js.map

@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---ho-chi-minh-5": [
-      "path---ho-chi-minh-5-19537e101e93104623b7.js",
-      "path---ho-chi-minh-5-19537e101e93104623b7.js.map"
+      "path---ho-chi-minh-5-6efa44aab21b51eb3d88.js",
+      "path---ho-chi-minh-5-6efa44aab21b51eb3d88.js.map"
     ],
     "component---src-pages-ho-chi-minh-1-js": [
       "component---src-pages-ho-chi-minh-1-js-c217222325c49e48218e.js",
@@ -17,16 +17,16 @@
       "component---src-pages-ha-noi-dong-da-js-cab8ffd84ec8f58adf48.js.map"
     ],
     "path---ho-chi-minh-binh-thanh": [
-      "path---ho-chi-minh-binh-thanh-969d644f75e0db9addca.js",
-      "path---ho-chi-minh-binh-thanh-969d644f75e0db9addca.js.map"
+      "path---ho-chi-minh-binh-thanh-e02e57ed2f6a291b5ee5.js",
+      "path---ho-chi-minh-binh-thanh-e02e57ed2f6a291b5ee5.js.map"
     ],
     "component---src-pages-ho-chi-minh-10-js": [
       "component---src-pages-ho-chi-minh-10-js-938aa8c9f47260ade36f.js",
       "component---src-pages-ho-chi-minh-10-js-938aa8c9f47260ade36f.js.map"
     ],
     "path---ha-noi-bac-tu-liem": [
-      "path---ha-noi-bac-tu-liem-9f44c4f36d0a35519b8d.js",
-      "path---ha-noi-bac-tu-liem-9f44c4f36d0a35519b8d.js.map"
+      "path---ha-noi-bac-tu-liem-b862a65888a054537b5f.js",
+      "path---ha-noi-bac-tu-liem-b862a65888a054537b5f.js.map"
     ],
     "component---src-pages-ho-chi-minh-2-js": [
       "component---src-pages-ho-chi-minh-2-js-8eb1b63c552c78954bdf.js",
@@ -41,8 +41,8 @@
       "component---src-pages-ho-chi-minh-binh-thanh-js-51fd5365a8e4f0d811c9.js.map"
     ],
     "path---ho-chi-minh-binh-tan": [
-      "path---ho-chi-minh-binh-tan-ce7e9994022804e9e963.js",
-      "path---ho-chi-minh-binh-tan-ce7e9994022804e9e963.js.map"
+      "path---ho-chi-minh-binh-tan-5eacd3fb9fa4ea31bf6f.js",
+      "path---ho-chi-minh-binh-tan-5eacd3fb9fa4ea31bf6f.js.map"
     ],
     "component---src-pages-ha-noi-ba-vi-js": [
       "component---src-pages-ha-noi-ba-vi-js-7e31afe93ad0505a008f.js",
@@ -61,8 +61,8 @@
       "component---src-pages-ha-noi-son-tay-js-938711f72439a9c4c4ef.js.map"
     ],
     "path---ho-chi-minh-3": [
-      "path---ho-chi-minh-3-09dbd7c3a7b60e48356f.js",
-      "path---ho-chi-minh-3-09dbd7c3a7b60e48356f.js.map"
+      "path---ho-chi-minh-3-7d14e0bc84230670e3d5.js",
+      "path---ho-chi-minh-3-7d14e0bc84230670e3d5.js.map"
     ],
     "component---src-pages-ho-chi-minh-tan-phu-js": [
       "component---src-pages-ho-chi-minh-tan-phu-js-74a3a70f36240de521e6.js",
@@ -85,40 +85,40 @@
       "component---src-pages-ha-noi-quoc-oai-js-1772035c81c6256b536c.js.map"
     ],
     "path---": [
-      "path----c7793bf82c153c548516.js",
-      "path----c7793bf82c153c548516.js.map"
+      "path----0f394aece07312ee350c.js",
+      "path----0f394aece07312ee350c.js.map"
     ],
     "path---ha-noi-cau-giay": [
-      "path---ha-noi-cau-giay-80c6abda00a1b282a7e0.js",
-      "path---ha-noi-cau-giay-80c6abda00a1b282a7e0.js.map"
+      "path---ha-noi-cau-giay-d025842c1d7ef6a409c9.js",
+      "path---ha-noi-cau-giay-d025842c1d7ef6a409c9.js.map"
     ],
     "component---src-pages-ho-chi-minh-binh-chanh-js": [
       "component---src-pages-ho-chi-minh-binh-chanh-js-2cf718f073d44c9db0a6.js",
       "component---src-pages-ho-chi-minh-binh-chanh-js-2cf718f073d44c9db0a6.js.map"
     ],
     "path---cua-hang-sap-mo-ho-chi-minh": [
-      "path---cua-hang-sap-mo-ho-chi-minh-c905ec08832ca5f167e2.js",
-      "path---cua-hang-sap-mo-ho-chi-minh-c905ec08832ca5f167e2.js.map"
+      "path---cua-hang-sap-mo-ho-chi-minh-eb69a3331c9da0db20df.js",
+      "path---cua-hang-sap-mo-ho-chi-minh-eb69a3331c9da0db20df.js.map"
     ],
     "component---src-pages-ha-noi-gia-lam-js": [
       "component---src-pages-ha-noi-gia-lam-js-6b6b59bebef58e6e4317.js",
       "component---src-pages-ha-noi-gia-lam-js-6b6b59bebef58e6e4317.js.map"
     ],
     "path---ho-chi-minh-11": [
-      "path---ho-chi-minh-11-4dbb6639dce72d8d8cbf.js",
-      "path---ho-chi-minh-11-4dbb6639dce72d8d8cbf.js.map"
+      "path---ho-chi-minh-11-98c8567094b087f5cde6.js",
+      "path---ho-chi-minh-11-98c8567094b087f5cde6.js.map"
     ],
     "path---ho-chi-minh-7": [
-      "path---ho-chi-minh-7-3662d2511ef449ca8fd0.js",
-      "path---ho-chi-minh-7-3662d2511ef449ca8fd0.js.map"
+      "path---ho-chi-minh-7-704663c7f8a5d0d60b69.js",
+      "path---ho-chi-minh-7-704663c7f8a5d0d60b69.js.map"
     ],
     "path---ho-chi-minh-thu-duc": [
-      "path---ho-chi-minh-thu-duc-c25ac3f1959ba982cc80.js",
-      "path---ho-chi-minh-thu-duc-c25ac3f1959ba982cc80.js.map"
+      "path---ho-chi-minh-thu-duc-64d62218e51354da23c3.js",
+      "path---ho-chi-minh-thu-duc-64d62218e51354da23c3.js.map"
     ],
     "path---ho-chi-minh-10": [
-      "path---ho-chi-minh-10-f9c334316d18604fb422.js",
-      "path---ho-chi-minh-10-f9c334316d18604fb422.js.map"
+      "path---ho-chi-minh-10-cd68c05b0014de2b890d.js",
+      "path---ho-chi-minh-10-cd68c05b0014de2b890d.js.map"
     ],
     "component---src-pages-ha-noi-hoai-duc-js": [
       "component---src-pages-ha-noi-hoai-duc-js-aa0506218da2235ef113.js",
@@ -161,16 +161,16 @@
       "component---src-pages-ho-chi-minh-9-js-115d7241911d4776d480.js.map"
     ],
     "path---cua-hang-sap-mo-ha-noi": [
-      "path---cua-hang-sap-mo-ha-noi-cf83acfb0a6a14a88b5d.js",
-      "path---cua-hang-sap-mo-ha-noi-cf83acfb0a6a14a88b5d.js.map"
+      "path---cua-hang-sap-mo-ha-noi-30283700d27e70b32d95.js",
+      "path---cua-hang-sap-mo-ha-noi-30283700d27e70b32d95.js.map"
     ],
     "path---ho-chi-minh-cu-chi": [
       "path---ho-chi-minh-cu-chi-9f44c4f36d0a35519b8d.js",
       "path---ho-chi-minh-cu-chi-9f44c4f36d0a35519b8d.js.map"
     ],
     "path---ha-noi-thanh-xuan": [
-      "path---ha-noi-thanh-xuan-064034117dca94799b64.js",
-      "path---ha-noi-thanh-xuan-064034117dca94799b64.js.map"
+      "path---ha-noi-thanh-xuan-f19a4cc8cfacf8ec23e0.js",
+      "path---ha-noi-thanh-xuan-f19a4cc8cfacf8ec23e0.js.map"
     ],
     "component---src-pages-ha-noi-dong-anh-js": [
       "component---src-pages-ha-noi-dong-anh-js-fd29a01bbda885d5ba19.js",
@@ -185,16 +185,16 @@
       "component---src-pages-ho-chi-minh-6-js-4f06300fd708cf31ca09.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-841b3ad7f37efb014e30.js",
-      "component---src-layouts-index-js-841b3ad7f37efb014e30.js.map"
+      "component---src-layouts-index-js-6c73d97f713fef37a7fb.js",
+      "component---src-layouts-index-js-6c73d97f713fef37a7fb.js.map"
     ],
     "component---src-pages-ho-chi-minh-12-js": [
       "component---src-pages-ho-chi-minh-12-js-69487fea5e71184019c2.js",
       "component---src-pages-ho-chi-minh-12-js-69487fea5e71184019c2.js.map"
     ],
     "path---ho-chi-minh-tan-binh": [
-      "path---ho-chi-minh-tan-binh-93592956ab78546bc1ef.js",
-      "path---ho-chi-minh-tan-binh-93592956ab78546bc1ef.js.map"
+      "path---ho-chi-minh-tan-binh-41ea6dfc22bbc0eb1c5c.js",
+      "path---ho-chi-minh-tan-binh-41ea6dfc22bbc0eb1c5c.js.map"
     ],
     "component---src-pages-ho-chi-minh-7-js": [
       "component---src-pages-ho-chi-minh-7-js-f9ef8ee44b085a17ebfc.js",
@@ -213,12 +213,12 @@
       "component---src-pages-ha-noi-nam-tu-liem-js-cdcc8ac6a561519053cb.js.map"
     ],
     "path---ha-noi-tay-ho": [
-      "path---ha-noi-tay-ho-12ef7ec01683d534bccb.js",
-      "path---ha-noi-tay-ho-12ef7ec01683d534bccb.js.map"
+      "path---ha-noi-tay-ho-d3aaded813b9c11761eb.js",
+      "path---ha-noi-tay-ho-d3aaded813b9c11761eb.js.map"
     ],
     "path---ha-noi-hai-ba-trung": [
-      "path---ha-noi-hai-ba-trung-40692a8a38065e209c33.js",
-      "path---ha-noi-hai-ba-trung-40692a8a38065e209c33.js.map"
+      "path---ha-noi-hai-ba-trung-7ddb77ece96db3f1b1e3.js",
+      "path---ha-noi-hai-ba-trung-7ddb77ece96db3f1b1e3.js.map"
     ],
     "component---src-pages-ho-chi-minh-3-js": [
       "component---src-pages-ho-chi-minh-3-js-a9f40430d3e0856663f5.js",
@@ -233,12 +233,12 @@
       "component---src-pages-ho-chi-minh-8-js-49ba6c7a7e5d272e4682.js.map"
     ],
     "path---ho-chi-minh-8": [
-      "path---ho-chi-minh-8-cb7260a6f5e0070fcb3f.js",
-      "path---ho-chi-minh-8-cb7260a6f5e0070fcb3f.js.map"
+      "path---ho-chi-minh-8-ec2e7747099ab701b65e.js",
+      "path---ho-chi-minh-8-ec2e7747099ab701b65e.js.map"
     ],
     "path---index": [
-      "path---index-a72dd4719b1af3c7875b.js",
-      "path---index-a72dd4719b1af3c7875b.js.map"
+      "path---index-954e9d4336ac669917c3.js",
+      "path---index-954e9d4336ac669917c3.js.map"
     ],
     "path---ho-chi-minh-can-gio": [
       "path---ho-chi-minh-can-gio-9f44c4f36d0a35519b8d.js",
@@ -265,44 +265,44 @@
       "path---ha-noi-ba-vi-9f44c4f36d0a35519b8d.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-36c8b6ba95b41fd261a7.js",
-      "component---src-pages-404-js-36c8b6ba95b41fd261a7.js.map"
+      "component---src-pages-404-js-855c46e52b3f8dc1469e.js",
+      "component---src-pages-404-js-855c46e52b3f8dc1469e.js.map"
     ],
     "path---ha-noi-ha-dong": [
-      "path---ha-noi-ha-dong-099c0aaa3a842275c47c.js",
-      "path---ha-noi-ha-dong-099c0aaa3a842275c47c.js.map"
+      "path---ha-noi-ha-dong-bf1e9bc9c9c56a3e6929.js",
+      "path---ha-noi-ha-dong-bf1e9bc9c9c56a3e6929.js.map"
     ],
     "component---src-pages-ho-chi-minh-5-js": [
       "component---src-pages-ho-chi-minh-5-js-e15f6ed7992a7e8aa352.js",
       "component---src-pages-ho-chi-minh-5-js-e15f6ed7992a7e8aa352.js.map"
     ],
     "path---ha-noi-dong-da": [
-      "path---ha-noi-dong-da-9ff90ad6a4e3f8f4be2f.js",
-      "path---ha-noi-dong-da-9ff90ad6a4e3f8f4be2f.js.map"
+      "path---ha-noi-dong-da-8348ebd3e4db33ad3562.js",
+      "path---ha-noi-dong-da-8348ebd3e4db33ad3562.js.map"
     ],
     "path---ho-chi-minh-4": [
-      "path---ho-chi-minh-4-7087a9023c4e07efdf85.js",
-      "path---ho-chi-minh-4-7087a9023c4e07efdf85.js.map"
+      "path---ho-chi-minh-4-6c3bef1db92cdb895692.js",
+      "path---ho-chi-minh-4-6c3bef1db92cdb895692.js.map"
     ],
     "commons": [
-      "commons-76e4fcf9993aa808cc03.js",
-      "commons-76e4fcf9993aa808cc03.js.map"
+      "commons-00b80c89d5b3525fb1b0.js",
+      "commons-00b80c89d5b3525fb1b0.js.map"
     ],
     "component---src-pages-ho-chi-minh-nha-be-js": [
       "component---src-pages-ho-chi-minh-nha-be-js-02c14462b9785c1cb420.js",
       "component---src-pages-ho-chi-minh-nha-be-js-02c14462b9785c1cb420.js.map"
     ],
     "path---ho-chi-minh-tan-phu": [
-      "path---ho-chi-minh-tan-phu-5e52d499a5d0c4a81cc1.js",
-      "path---ho-chi-minh-tan-phu-5e52d499a5d0c4a81cc1.js.map"
+      "path---ho-chi-minh-tan-phu-c2e5f8e5f4e1a6b4d5a8.js",
+      "path---ho-chi-minh-tan-phu-c2e5f8e5f4e1a6b4d5a8.js.map"
     ],
     "component---src-pages-ha-noi-ba-dinh-js": [
       "component---src-pages-ha-noi-ba-dinh-js-a0d1c4b488e9980a3f23.js",
       "component---src-pages-ha-noi-ba-dinh-js-a0d1c4b488e9980a3f23.js.map"
     ],
     "path---ho-chi-minh-12": [
-      "path---ho-chi-minh-12-3b445c4160cfa97ce0b7.js",
-      "path---ho-chi-minh-12-3b445c4160cfa97ce0b7.js.map"
+      "path---ho-chi-minh-12-6b798bc7908d0f8cb27d.js",
+      "path---ho-chi-minh-12-6b798bc7908d0f8cb27d.js.map"
     ],
     "component---src-pages-ha-noi-long-bien-js": [
       "component---src-pages-ha-noi-long-bien-js-b9acf25e505d0d2e3bf2.js",
@@ -313,16 +313,16 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---ha-noi-nam-tu-liem": [
-      "path---ha-noi-nam-tu-liem-d51b3a8008eb6645361e.js",
-      "path---ha-noi-nam-tu-liem-d51b3a8008eb6645361e.js.map"
+      "path---ha-noi-nam-tu-liem-e27d97c823530966813a.js",
+      "path---ha-noi-nam-tu-liem-e27d97c823530966813a.js.map"
     ],
     "path---ho-chi-minh-6": [
-      "path---ho-chi-minh-6-83e7c8cca1f90f772ae0.js",
-      "path---ho-chi-minh-6-83e7c8cca1f90f772ae0.js.map"
+      "path---ho-chi-minh-6-8f388e103b1cec2148fa.js",
+      "path---ho-chi-minh-6-8f388e103b1cec2148fa.js.map"
     ],
     "path---ha-noi-ba-dinh": [
-      "path---ha-noi-ba-dinh-8b6f58c45c66cac2ff3b.js",
-      "path---ha-noi-ba-dinh-8b6f58c45c66cac2ff3b.js.map"
+      "path---ha-noi-ba-dinh-61a1b816bef58235991c.js",
+      "path---ha-noi-ba-dinh-61a1b816bef58235991c.js.map"
     ],
     "path---ha-noi-thanh-tri": [
       "path---ha-noi-thanh-tri-9f44c4f36d0a35519b8d.js",
@@ -337,12 +337,12 @@
       "component---src-pages-ha-noi-phuc-tho-js-5981981f16535782fbe1.js.map"
     ],
     "path---ha-noi-long-bien": [
-      "path---ha-noi-long-bien-d47426f27e81fb343af4.js",
-      "path---ha-noi-long-bien-d47426f27e81fb343af4.js.map"
+      "path---ha-noi-long-bien-9538dad8f54d4fa3c616.js",
+      "path---ha-noi-long-bien-9538dad8f54d4fa3c616.js.map"
     ],
     "path---ho-chi-minh-2": [
-      "path---ho-chi-minh-2-7599c1427f22cd212c06.js",
-      "path---ho-chi-minh-2-7599c1427f22cd212c06.js.map"
+      "path---ho-chi-minh-2-c69591d94fc2fb4b837b.js",
+      "path---ho-chi-minh-2-c69591d94fc2fb4b837b.js.map"
     ],
     "component---src-pages-ho-chi-minh-can-gio-js": [
       "component---src-pages-ho-chi-minh-can-gio-js-9d00936708cbaffbce51.js",
@@ -385,9 +385,9 @@
       "path---ha-noi-ung-hoa-9f44c4f36d0a35519b8d.js.map"
     ],
     "app": [
-      "app-2ad8bfd38229481b5594.js",
+      "app-3c4f65a82f8d312c1a10.js",
       "build-js-styles.css",
-      "app-2ad8bfd38229481b5594.js.map",
+      "app-3c4f65a82f8d312c1a10.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-ho-chi-minh-thu-duc-js": [
@@ -407,16 +407,16 @@
       "component---src-pages-ho-chi-minh-go-vap-js-9c73b2fbfd77c624f7a7.js.map"
     ],
     "path---ha-noi-hoan-kiem": [
-      "path---ha-noi-hoan-kiem-1446448a3abbdf1c81fe.js",
-      "path---ha-noi-hoan-kiem-1446448a3abbdf1c81fe.js.map"
+      "path---ha-noi-hoan-kiem-d6bb0757e3bcbff63cae.js",
+      "path---ha-noi-hoan-kiem-d6bb0757e3bcbff63cae.js.map"
     ],
     "path---ho-chi-minh-9": [
       "path---ho-chi-minh-9-9f44c4f36d0a35519b8d.js",
       "path---ho-chi-minh-9-9f44c4f36d0a35519b8d.js.map"
     ],
     "path---ho-chi-minh-phu-nhuan": [
-      "path---ho-chi-minh-phu-nhuan-3b9089438b8db7aab361.js",
-      "path---ho-chi-minh-phu-nhuan-3b9089438b8db7aab361.js.map"
+      "path---ho-chi-minh-phu-nhuan-3b6f00d953fbf8de0327.js",
+      "path---ho-chi-minh-phu-nhuan-3b6f00d953fbf8de0327.js.map"
     ],
     "component---src-pages-ho-chi-minh-hoc-mon-js": [
       "component---src-pages-ho-chi-minh-hoc-mon-js-add84358b0fa4b6a989b.js",
@@ -451,8 +451,8 @@
       "path---ha-noi-my-duc-9f44c4f36d0a35519b8d.js.map"
     ],
     "path---ho-chi-minh-1": [
-      "path---ho-chi-minh-1-0e1f7c1ab128df2efab3.js",
-      "path---ho-chi-minh-1-0e1f7c1ab128df2efab3.js.map"
+      "path---ho-chi-minh-1-4fe98911ed2f51e6243e.js",
+      "path---ho-chi-minh-1-4fe98911ed2f51e6243e.js.map"
     ],
     "path---ha-noi-dong-anh": [
       "path---ha-noi-dong-anh-9f44c4f36d0a35519b8d.js",
@@ -463,8 +463,8 @@
       "path---ho-chi-minh-nha-be-9f44c4f36d0a35519b8d.js.map"
     ],
     "path---ho-chi-minh-go-vap": [
-      "path---ho-chi-minh-go-vap-fd3c2b50597394979962.js",
-      "path---ho-chi-minh-go-vap-fd3c2b50597394979962.js.map"
+      "path---ho-chi-minh-go-vap-c2dff8848d3932b96861.js",
+      "path---ho-chi-minh-go-vap-c2dff8848d3932b96861.js.map"
     ],
     "component---src-pages-ha-noi-thuong-tin-js": [
       "component---src-pages-ha-noi-thuong-tin-js-2a08255174cf1c7275ce.js",
@@ -475,8 +475,8 @@
       "component---src-pages-ha-noi-chuong-my-js-e43a1b62ae2070f2f8a7.js.map"
     ],
     "path---ha-noi-hoang-mai": [
-      "path---ha-noi-hoang-mai-281021350ff24654e26c.js",
-      "path---ha-noi-hoang-mai-281021350ff24654e26c.js.map"
+      "path---ha-noi-hoang-mai-7cf79a8d824ba9d8c53d.js",
+      "path---ha-noi-hoang-mai-7cf79a8d824ba9d8c53d.js.map"
     ],
     "component---src-pages-ho-chi-minh-tan-binh-js": [
       "component---src-pages-ho-chi-minh-tan-binh-js-2ff52807adbd3446946b.js",
