@@ -1,2 +1,0 @@
-webpackJsonp([59194389666375],{237:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.QuocOaiQuery=void 0;var u=a(2),n=l(u),o=a(3),r=(l(o),a(5)),d=l(r),c=a(4),s=l(c),f=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?n.default.createElement(d.default,{nodes:t.allLocationsXlsxSheet1.edges}):n.default.createElement(s.default,null)};t.default=f;t.QuocOaiQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-ha-noi-quoc-oai-js-1772035c81c6256b536c.js.map

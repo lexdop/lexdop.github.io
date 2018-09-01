@@ -1,2 +1,0 @@
-webpackJsonp([99145603005683],{500:function(t,n){t.exports={data:{allLocationsXlsxSheet1:{totalCount:1,edges:[{node:{complete_address:"240 Hoàng Mai, Phường Hoàng Văn Thụ, Quận Hai Bà Trưng, Hà Nội",district:"Hai Bà Trưng",longitude:0,station_name:"TM-240HoangMai",latitude:0,city:"Hanoi City",ward:null,plf_id:"558",planned_launch_date:"08/10/2018",week:"W32",status:"Setting",contact_email:null,notes:null,partner_type:"Truemoney"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---cua-hang-sap-mo-ha-noi-6adab072e6a4b7f62f21.js.map

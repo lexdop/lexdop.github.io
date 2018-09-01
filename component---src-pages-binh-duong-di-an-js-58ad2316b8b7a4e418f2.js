@@ -1,2 +1,0 @@
-webpackJsonp([0xc4394c836cbb],{212:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.DiAnQuery=void 0;var n=a(2),u=l(n),r=a(3),c=(l(r),a(5)),d=l(c),o=a(4),s=l(o),f=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?u.default.createElement(d.default,{nodes:t.allLocationsXlsxSheet1.edges}):u.default.createElement(s.default,null)};t.default=f;t.DiAnQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-binh-duong-di-an-js-58ad2316b8b7a4e418f2.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xe8eec6829b90],{216:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.BienHoaQuery=void 0;var n=a(2),u=l(n),o=a(3),r=(l(o),a(5)),d=l(r),c=a(4),s=l(c),f=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?u.default.createElement(d.default,{nodes:t.allLocationsXlsxSheet1.edges}):u.default.createElement(s.default,null)};t.default=f;t.BienHoaQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-dong-nai-bien-hoa-js-a9b8b766c76bd9c45767.js.map
