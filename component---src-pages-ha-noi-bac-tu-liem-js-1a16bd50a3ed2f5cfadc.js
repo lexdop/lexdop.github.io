@@ -1,0 +1,2 @@
+webpackJsonp([0x8aff39278673],{219:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.BacTuLiemQuery=void 0;var u=a(2),n=l(u),r=a(3),d=(l(r),a(5)),c=l(d),f=a(4),o=l(f),s=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?n.default.createElement(c.default,{nodes:t.allLocationsXlsxSheet1.edges}):n.default.createElement(o.default,null)};t.default=s;t.BacTuLiemQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-ha-noi-bac-tu-liem-js-1a16bd50a3ed2f5cfadc.js.map
