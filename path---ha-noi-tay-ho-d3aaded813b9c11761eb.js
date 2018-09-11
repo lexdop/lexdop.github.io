@@ -1,2 +1,0 @@
-webpackJsonp([0x74c680f44ccf],{525:function(t,e){t.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{plf_id:"49",district:"Tây Hồ",complete_address:"Số 7A Yên Phụ, P. Yên Phụ, Q. Tây Hồ, TP. Hà Nội",longitude:105.840039,latitude:21.05067,city:"Hanoi City",ward:"Yên Phụ",station_name:"FPT15 - Yên Phụ",planned_launch_date:"10/31/2017",week:"W44",status:"Done",contact_email:null,notes:null,partner_type:"FPT"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---ha-noi-tay-ho-d3aaded813b9c11761eb.js.map
