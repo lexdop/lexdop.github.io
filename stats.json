@@ -85,8 +85,13 @@
       "component---src-pages-ha-noi-quoc-oai-js-1772035c81c6256b536c.js.map"
     ],
     "path---": [
+<<<<<<< HEAD
       "path----f10c3fba68f2552f5f30.js",
       "path----f10c3fba68f2552f5f30.js.map"
+=======
+      "path----cb330334d4b7d662d2cc.js",
+      "path----cb330334d4b7d662d2cc.js.map"
+>>>>>>> c314a8b5bf017cc8ffd507cdec0dea141d8a3ddb
     ],
     "path---ha-noi-cau-giay": [
       "path---ha-noi-cau-giay-1a60d131738ea9fdb2e0.js",
@@ -113,8 +118,13 @@
       "path---ho-chi-minh-7-edc6527c646ecb26f761.js.map"
     ],
     "path---ho-chi-minh-thu-duc": [
+<<<<<<< HEAD
       "path---ho-chi-minh-thu-duc-8520973cb267556decdc.js",
       "path---ho-chi-minh-thu-duc-8520973cb267556decdc.js.map"
+=======
+      "path---ho-chi-minh-thu-duc-fb621b8ba4831d9ed946.js",
+      "path---ho-chi-minh-thu-duc-fb621b8ba4831d9ed946.js.map"
+>>>>>>> c314a8b5bf017cc8ffd507cdec0dea141d8a3ddb
     ],
     "path---ho-chi-minh-10": [
       "path---ho-chi-minh-10-cd1a94cea76f7fdb9ef4.js",
@@ -189,8 +199,13 @@
       "component---src-pages-ho-chi-minh-6-js-4f06300fd708cf31ca09.js.map"
     ],
     "component---src-layouts-index-js": [
+<<<<<<< HEAD
       "component---src-layouts-index-js-2a6154e40c47583d25ec.js",
       "component---src-layouts-index-js-2a6154e40c47583d25ec.js.map"
+=======
+      "component---src-layouts-index-js-3d2ec2f83804d54a8bdb.js",
+      "component---src-layouts-index-js-3d2ec2f83804d54a8bdb.js.map"
+>>>>>>> c314a8b5bf017cc8ffd507cdec0dea141d8a3ddb
     ],
     "component---src-pages-ho-chi-minh-12-js": [
       "component---src-pages-ho-chi-minh-12-js-69487fea5e71184019c2.js",
@@ -237,12 +252,21 @@
       "component---src-pages-ho-chi-minh-8-js-49ba6c7a7e5d272e4682.js.map"
     ],
     "path---ho-chi-minh-8": [
+<<<<<<< HEAD
       "path---ho-chi-minh-8-9a10cc696371ed8cbb71.js",
       "path---ho-chi-minh-8-9a10cc696371ed8cbb71.js.map"
     ],
     "path---index": [
       "path---index-12885623dc79160cfb3f.js",
       "path---index-12885623dc79160cfb3f.js.map"
+=======
+      "path---ho-chi-minh-8-bc37e2da0f4674af7701.js",
+      "path---ho-chi-minh-8-bc37e2da0f4674af7701.js.map"
+    ],
+    "path---index": [
+      "path---index-d02b9fb4c47e7bcb6fd7.js",
+      "path---index-d02b9fb4c47e7bcb6fd7.js.map"
+>>>>>>> c314a8b5bf017cc8ffd507cdec0dea141d8a3ddb
     ],
     "path---ho-chi-minh-can-gio": [
       "path---ho-chi-minh-can-gio-9f44c4f36d0a35519b8d.js",
@@ -413,9 +437,15 @@
       "path---ha-noi-ung-hoa-9f44c4f36d0a35519b8d.js.map"
     ],
     "app": [
+<<<<<<< HEAD
       "app-fe713cac672bd51d132c.js",
       "build-js-styles.css",
       "app-fe713cac672bd51d132c.js.map",
+=======
+      "app-e4707e02cc46243af6d7.js",
+      "build-js-styles.css",
+      "app-e4707e02cc46243af6d7.js.map",
+>>>>>>> c314a8b5bf017cc8ffd507cdec0dea141d8a3ddb
       "build-js-styles.css.map"
     ],
     "component---src-pages-ho-chi-minh-thu-duc-js": [
@@ -499,8 +529,13 @@
       "path---ho-chi-minh-nha-be-9f44c4f36d0a35519b8d.js.map"
     ],
     "path---ho-chi-minh-go-vap": [
+<<<<<<< HEAD
       "path---ho-chi-minh-go-vap-cfef95f8f1c19dcaa553.js",
       "path---ho-chi-minh-go-vap-cfef95f8f1c19dcaa553.js.map"
+=======
+      "path---ho-chi-minh-go-vap-662fa4290ad48470c6d6.js",
+      "path---ho-chi-minh-go-vap-662fa4290ad48470c6d6.js.map"
+>>>>>>> c314a8b5bf017cc8ffd507cdec0dea141d8a3ddb
     ],
     "component---src-pages-ha-noi-thuong-tin-js": [
       "component---src-pages-ha-noi-thuong-tin-js-2a08255174cf1c7275ce.js",
