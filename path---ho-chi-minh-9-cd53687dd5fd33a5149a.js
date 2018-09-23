@@ -1,2 +1,0 @@
-webpackJsonp([0xe16a99548390],{563:function(t,n){t.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{plf_id:719,district:"9",complete_address:"77 Lê Văn Việt, Phường Hiệp Phú, Quận 9",longitude:null,latitude:null,city:"Hochiminh City",ward:null,station_name:"STT - 77 Lê Văn Việt",planned_launch_date:"08/31/2018",week:"W35",status:"Done",contact_email:null,notes:null,partner_type:"Shoptretho"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---ho-chi-minh-9-cd53687dd5fd33a5149a.js.map
