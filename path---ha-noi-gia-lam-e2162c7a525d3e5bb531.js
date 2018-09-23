@@ -1,2 +1,0 @@
-webpackJsonp([0xceba6b27e326],{522:function(e,t){e.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{plf_id:705,district:"Gia Lâm",complete_address:"279 Nguyễn Đức Thuận, TT Trâu Quỳ, Huyện Gia Lâm, Hà Nội",longitude:0,latitude:0,city:"Hanoi City",ward:null,station_name:"TM-279NDT",planned_launch_date:"08/24/2018",week:"W34",status:"Done",contact_email:null,notes:null,partner_type:"Truemoney"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---ha-noi-gia-lam-e2162c7a525d3e5bb531.js.map
