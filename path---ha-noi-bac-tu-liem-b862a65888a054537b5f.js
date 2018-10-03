@@ -1,0 +1,2 @@
+webpackJsonp([0xe6dddc93726],{504:function(t,n){t.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{plf_id:"375",district:"Bắc Từ Liêm",complete_address:"Số 284-286 Hồ Tùng Mậu, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",longitude:0,latitude:0,city:"Hanoi City",ward:null,station_name:"Bibo-284HoTungMau",planned_launch_date:"06/29/2018",week:"W26",status:"Done",contact_email:null,notes:null,partner_type:"BiBoMart"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---ha-noi-bac-tu-liem-b862a65888a054537b5f.js.map
