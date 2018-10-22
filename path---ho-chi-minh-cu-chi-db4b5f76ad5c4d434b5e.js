@@ -1,0 +1,2 @@
+webpackJsonp([0x5c3caf3dacd7],{571:function(n,t){n.exports={data:{allLocationsXlsxSheet1:{edges:[{node:{plf_id:792,district:"Củ Chi",complete_address:"26E đường Nguyễn Văn Ni, Thị trấn Củ Chi, Huyện Củ Chi. ",longitude:0,latitude:0,city:"Hochiminh City",ward:null,station_name:"CS - 26E Nguyễn Văn Ni",planned_launch_date:"09/23/2018",week:"W38",status:"Done",contact_email:null,notes:null,partner_type:"CoOpSmile"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---ho-chi-minh-cu-chi-db4b5f76ad5c4d434b5e.js.map

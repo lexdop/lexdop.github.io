@@ -1,0 +1,2 @@
+webpackJsonp([0xcbb24db70fb3],{215:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.DongNaiQuery=void 0;var n=a(2),u=l(n),d=a(3),o=(l(d),a(4)),r=l(o),c=a(60),f=l(c),i=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?u.default.createElement(f.default,{nodes:t.allLocationsXlsxSheet1.edges,city:"Đồng Nai"}):u.default.createElement(r.default,null)};t.default=i;t.DongNaiQuery="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-cua-hang-sap-mo-dong-nai-js-726c68cc4ce533e58eac.js.map
