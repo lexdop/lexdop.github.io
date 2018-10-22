@@ -1,2 +1,0 @@
-webpackJsonp([58446915265456],{216:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.HaNoiQuery=void 0;var u=a(2),n=l(u),o=a(3),r=(l(o),a(4)),d=l(r),c=a(60),i=l(c),s=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?n.default.createElement(i.default,{nodes:t.allLocationsXlsxSheet1.edges,city:"Hà Nội"}):n.default.createElement(d.default,null)};t.default=s;t.HaNoiQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-cua-hang-sap-mo-ha-noi-js-a00a13e68a8eedf2c560.js.map

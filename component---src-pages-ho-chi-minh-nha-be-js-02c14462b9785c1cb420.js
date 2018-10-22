@@ -1,2 +1,0 @@
-webpackJsonp([0x9d28fe7fcb60],{268:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.NhaBeQuery=void 0;var u=a(2),n=l(u),d=a(3),r=(l(d),a(5)),f=l(r),o=a(4),c=l(o),s=function(e){var t=e.data,a=!!t.allLocationsXlsxSheet1;return a?n.default.createElement(f.default,{nodes:t.allLocationsXlsxSheet1.edges}):n.default.createElement(c.default,null)};t.default=s;t.NhaBeQuery="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-ho-chi-minh-nha-be-js-02c14462b9785c1cb420.js.map
